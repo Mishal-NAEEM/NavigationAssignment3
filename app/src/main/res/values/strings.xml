@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="calculator">Calculator</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="textView3">Hello</string>
+    <string name="textview">Quiz App</string>
+</resources>
